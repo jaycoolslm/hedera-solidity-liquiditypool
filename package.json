@@ -1,0 +1,23 @@
+{
+  "name": "liquidity-pool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "directories": {
+    "test": "./test"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.0",
+    "chai": "^4.3.6",
+    "hardhat": "^2.11.2",
+    "mocha": "^10.0.0"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3"
+  }
+}
